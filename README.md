@@ -10,9 +10,9 @@ This dataset is primarily centered around the housing market of London. It conta
 
 The data used here is from year 1995 to 2019 of each different area.
 
-This data is available as a CSV file, downloaded from Kaggle
+This data is available as a CSV file, downloaded from Kaggle.
 
-I will analyze this data using the Pandas DataFrame
+I will analyze this data using the Pandas DataFrame.
 
 Here, random sets of quesitons are given for which I have to find correct results.
 
