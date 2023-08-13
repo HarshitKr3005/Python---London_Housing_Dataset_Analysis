@@ -14,5 +14,5 @@ This data is available as a CSV file, downloaded from Kaggle.
 
 I will analyze this data using the Pandas DataFrame.
 
-Here, random sets of quesitons are given for which I have to find correct results.
+Here, random sets of questions are given for which I have to find correct results.
 
